@@ -1,0 +1,119 @@
+html
+{
+	height: 100%;
+}
+body {
+    padding-top: 100px;
+    background-image: url(../Images/medical-appointment-doctor-healthcare.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    font-family: 'Lora', serif;
+}
+
+.navbar-inverse {
+    /*background-color:#3b6ba5;*/
+    background-image: url(../Images/Frosted-Glass.png);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    border-bottom: 2px solid rgba(252, 248, 227, 0.22);
+}
+.navbar-inverse .navbar-brand 
+{
+	font-size: 3rem;
+	text-align: center;
+    color:#0004ab;
+}
+
+.navbar-inverse .navbar-nav > li
+{
+    font-size: 2.5rem;
+    color: #0004ab;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 6rem;
+	font-weight: 700;
+}
+
+.dropdown-menu>li>a:hover
+{
+	background: #e2641f;
+}
+.dropdown-menu>li>a
+{
+	background: #fe4c4a;
+}
+
+/*What is the color of Links and bands in Navigation bar. Before Hover and After Hover*/
+.navbar-inverse .navbar-nav > li > a,.navbar-inverse .navbar-brand {
+    color: #5d0859;
+}
+.navbar-inverse .navbar-nav > li > a:hover ,.navbar-inverse .navbar-brand:hover {
+    color: black;
+}
+
+
+.col-lg-8 {
+    background-image: url(../Images/rodion-kutsaev-24833.jpg);
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 2%;
+    padding-right: 8%;
+    padding-left: 8%;
+    margin-bottom: 10%;
+    border: 4px solid gray;
+}
+
+label 
+{
+   	font-size:1.5em;
+}
+
+
+
+.btn-success ,button
+{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+
+.grid-view {
+    text-align: center;
+    font-weight: 400;
+    border: 5px solid #591dc8;
+    padding-left: 2px;
+}
+
+    .grid-view th {
+        color: black;
+        padding: 3px 3px 3px 3px;
+        text-align: center;
+    }
+
+
+.grid-view th:hover
+{
+        color: #ba0000;
+        font-weight:800;
+}
+    .grid-view td {
+        color: black;
+        padding-right: 1em;
+        padding-left: 1em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        text-align: center;
+        border: 2px solid black;
+    }
+
+.grid-view td:hover 
+{
+        color: #ba0000;
+        font-weight:800;
+}

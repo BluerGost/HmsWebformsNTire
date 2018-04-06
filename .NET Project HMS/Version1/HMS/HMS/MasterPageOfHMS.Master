@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageOfHMS.master.cs" Inherits="HMS.MasterPageOfHMS" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <asp:ContentPlaceHolder ID="PageTitleContentPlaceHolder" runat="server">
+        <title>Master Page</title>
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="Styles/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="Bootstrap/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="Styles/MasterPage.css">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><i class="fa fa fa-home"></i>HMS</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Nav Bar Left Links -->
+
+                    <!-- Physician DropDown -->
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Physician <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="AddPhysician.aspx">Add Physician</a></li>
+                            <li><a href="SearchPhysician.aspx">Search Physician</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Patient DropDown -->
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Patient <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="EnrollPatient.aspx">Enroll Patient</a></li>
+                            <li><a href="EnterPatientDiagnosisDetails.aspx">Enter Patient Diagnosis</a></li>
+                            <li><a href="ViewPatientHistory.aspx">View Patient Information</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <!-- Nav Bar Right Links -->
+                    <li id="login"><a href="#">User Name <i class="fa fa-user-circle-o fa-2x"></i></a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <!-- Nav Bar End -->
+
+
+
+    <!-- Grid View -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2">
+            </div>
+            <div class="col-lg-8">
+                <asp:ContentPlaceHolder ID="FormTitleContentPlaceHolder" runat="server">
+                     <h1>Form Name Here</h1>
+                </asp:ContentPlaceHolder>
+                <asp:ContentPlaceHolder ID="FormContentPlaceHolder" runat="server">
+                     <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                    </div>
+                     <div class="form-group">
+                        <asp:GridView ID="gvViewPatientHistory" class="table table-striped gridview" runat="server"></asp:GridView>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Password</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputFile">File input</label>
+                        <input type="file" id="exampleInputFile">
+                        <p class="help-block">Example block-level help text here.</p>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox">
+                            Check me out
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </form>
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div class="col-lg-2">
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery CDN -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.js"
+        integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+        crossorigin="anonymous"></script>
+    <!-- Bootstrap JavaScript Plugin For Nav Bar -->
+    <script type="text/javascript" src="Bootstrap/bootstrap.min.js"></script>
+</body>
+</html>

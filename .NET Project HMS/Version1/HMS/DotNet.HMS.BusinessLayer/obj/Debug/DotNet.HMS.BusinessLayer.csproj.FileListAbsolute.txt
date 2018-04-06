@@ -1,0 +1,9 @@
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\bin\Debug\DotNet.HMS.BusinessLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\bin\Debug\DotNet.HMS.BusinessLayer.pdb
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\bin\Debug\DotNet.HMS.DataLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\bin\Debug\DotNet.HMS.DataLayer.pdb
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\obj\Debug\DotNet.HMS.BusinessLayer.csprojResolveAssemblyReference.cache
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\obj\Debug\DotNet.HMS.BusinessLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\obj\Debug\DotNet.HMS.BusinessLayer.pdb
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\bin\Debug\DotNet.HMS.EntityLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.BusinessLayer\bin\Debug\DotNet.HMS.EntityLayer.pdb

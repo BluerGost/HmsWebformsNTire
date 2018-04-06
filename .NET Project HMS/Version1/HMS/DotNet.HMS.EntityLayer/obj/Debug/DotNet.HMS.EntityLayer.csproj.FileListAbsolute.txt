@@ -1,0 +1,5 @@
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.EntityLayer\bin\Debug\DotNet.HMS.EntityLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.EntityLayer\bin\Debug\DotNet.HMS.EntityLayer.pdb
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.EntityLayer\obj\Debug\DotNet.HMS.EntityLayer.csprojResolveAssemblyReference.cache
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.EntityLayer\obj\Debug\DotNet.HMS.EntityLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.EntityLayer\obj\Debug\DotNet.HMS.EntityLayer.pdb

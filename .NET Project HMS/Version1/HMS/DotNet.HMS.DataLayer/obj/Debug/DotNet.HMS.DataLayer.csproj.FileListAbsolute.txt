@@ -1,0 +1,5 @@
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.DataLayer\bin\Debug\DotNet.HMS.DataLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.DataLayer\bin\Debug\DotNet.HMS.DataLayer.pdb
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.DataLayer\obj\Debug\DotNet.HMS.DataLayer.csprojResolveAssemblyReference.cache
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.DataLayer\obj\Debug\DotNet.HMS.DataLayer.dll
+E:\HMS-Project\.NET Project HMS\Version1\HMS\DotNet.HMS.DataLayer\obj\Debug\DotNet.HMS.DataLayer.pdb
