@@ -19,8 +19,13 @@ This Project is Build with the ASP.NET Web Forms. Keeping the scalability and th
   - Physician Search
   
   **Group Members**:<br>
-    [Kevin Stephen Biswas](https://github.com/BluerGost/) **Role**: Programmer,Developer,UI Design,and Database Design.
+    [Kevin Stephen Biswas](https://github.com/BluerGost/) **Role**: Programmer,Developer,UI Design,and Database Design.<br>
   
+  **Tools Used**:<br>
   
-
-
+    - C#
+    - ASP.NET Web Forms
+    - Boostrap
+    - MS SQL Server
+    - Visual Studio 2017
+    - SQL Server Management Studio
