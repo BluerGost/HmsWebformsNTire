@@ -11,13 +11,15 @@ This Project is Build with the ASP.NET Web Forms. Keeping the scalability and th
   - DataLink Layer
 
 *The Key features of this applications are*-<br>
+
   - Enroll Patient
   - Patient Diagnosis Details
   - View Patient History
   - Add Physician 
   - Physician Search
   
-  Group Members:
+  **Group Members**:
+  
     - [Kevin Stephen Biswas](https://github.com/BluerGost/) **Role**: Programmer,Developer,UI Design,and Database Design.
   
   
