@@ -19,8 +19,7 @@ This Project is Build with the ASP.NET Web Forms. Keeping the scalability and th
   - Physician Search
   
   **Group Members**:
-  
-    - [Kevin Stephen Biswas](https://github.com/BluerGost/) **Role**: Programmer,Developer,UI Design,and Database Design.
+    [Kevin Stephen Biswas](https://github.com/BluerGost/) **Role**: Programmer,Developer,UI Design,and Database Design.
   
   
 
