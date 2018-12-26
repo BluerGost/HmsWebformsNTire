@@ -25,12 +25,12 @@ This Project is Build with the ASP.NET Web Forms. Keeping the scalability and th
   
  ## Tools Used
   
-    1. C#
-    2. ASP.NET Web Forms
-    3. Boostrap
-    4. MS SQL Server
-    5. Visual Studio 2017
-    6. SQL Server Management Studio
+  1. C#
+  2. ASP.NET Web Forms
+  3. Boostrap
+  4. MS SQL Server
+  5. Visual Studio 2017
+  6. SQL Server Management Studio
     
 ## Acknowledgments
 
